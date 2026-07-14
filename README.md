@@ -1,7 +1,6 @@
----
-title: Noah Davidson - political econometrician
----
-
+<head>
+<title>Noah Davidson - political econometrician</title>
+</head>
 <h1>Noah Davidson's (very basic) political econometrics website</h1>
 Hi, I'm Noah - nerd by day... still a nerd by night. You can probably find me working on econometric projects here with a particular focus on the inner workings of elections and how they run.
 
