@@ -1,6 +1,6 @@
 encoding: UTF-8
 name: Noah Davidson
-theme: jekyll-theme-minima
+theme: minima
 defaults:
     values:
       strip_title: true
